@@ -1,1 +1,3 @@
-# buildPiper-SpringPetclinic
+# SpringPetclinic
+
+Maven based Project
