@@ -1,3 +1,3 @@
 # SpringPetclinic
 
-Maven based Projects
+Maven based Project
